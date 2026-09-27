@@ -1,18 +1,117 @@
-# 💫 About Me:
-I'm a passionate developer dedicated to building scalable, efficient solutions and contributing to the open-source community. With a focus on clean code and best practices, I thrive in collaborative environments and am always eager to learn new technologies. I believe in continuous learning and applying strategic thinking from chess to solve complex coding problems.
+# 👋 Hi, I'm Manas Kasaudhan
 
+### 💻 MCA Student | Full Stack Developer | Java & Web Development
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebrownguy.x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-k-974907345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manaskasaudhan1808@gmail.com) 
+I’m a developer focused on building practical, scalable, and user-friendly applications.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manas-kasaudhan&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manas-kasaudhan&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manas-kasaudhan&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My current focus is strengthening my **Java, Data Structures & Algorithms, Full Stack Web Development, and backend development** skills while working on real-world projects.
+
+I also have hands-on exposure to **Identity & Access Management**, including **OAuth 2.0, OpenID Connect, SAML 2.0, JWT, SSO, and PingFederate**.
+
+I enjoy solving programming problems, building projects, learning new technologies, and using the strategic thinking I developed through chess to approach coding problems.
 
 ---
-[![](https://komarev.com/ghpvc/?username=manas-kasaudhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Pursuing **MCA at Galgotias University**
+- 💻 Interested in **Full Stack & Backend Development**
+- ☕ Currently strengthening **Java & DSA**
+- 🌐 Building applications using **JavaScript, React, Node.js & Express**
+- 🗄️ Working with **MongoDB & MySQL**
+- 🔐 Exploring **IAM, SSO, OAuth 2.0, OIDC & SAML**
+- 🧩 Practicing problem solving with **C, Java & Python**
+- ♟️ Chess player who enjoys applying strategic thinking to programming
+- 📚 Always learning and building something new
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔐 Identity & Security
+
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-3C5A99?style=for-the-badge)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
+![SAML](https://img.shields.io/badge/SAML_2.0-5C2D91?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![PingFederate](https://img.shields.io/badge/PingFederate-0066CC?style=for-the-badge)
+
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+### ☁️ Deployment & Cloud
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java
+ ├── OOP
+ ├── Collections
+ ├── Exception Handling
+ ├── File Handling
+ └── DSA
+
+Web Development
+ ├── HTML
+ ├── CSS
+ ├── JavaScript
+ ├── React
+ ├── Node.js
+ └── Express.js
+
+Backend & APIs
+ ├── REST APIs
+ ├── Authentication
+ ├── Authorization
+ └── API Integration
+
+IAM & SSO
+ ├── OAuth 2.0
+ ├── OpenID Connect
+ ├── SAML 2.0
+ ├── JWT
+ └── PingFederate
