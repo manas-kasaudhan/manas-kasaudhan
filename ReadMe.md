@@ -1,117 +1,60 @@
-# 👋 Hi, I'm Manas Kasaudhan
+<!-- ===================== ANIMATED HEADER ===================== -->
 
-### 💻 MCA Student | Full Stack Developer | Java & Web Development
+<div align="center">
 
-I’m a developer focused on building practical, scalable, and user-friendly applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Manas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-My current focus is strengthening my **Java, Data Structures & Algorithms, Full Stack Web Development, and backend development** skills while working on real-world projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Java+%7C+JavaScript+%7C+React+%7C+Node.js;Full+Stack+Developer;Learning+DSA+%26+Backend+Development;Exploring+IAM+%7C+SSO+%7C+OAuth+%7C+OIDC;Building%2C+Breaking%2C+Learning+%26+Repeating+%F0%9F%98%84" />
 
-I also have hands-on exposure to **Identity & Access Management**, including **OAuth 2.0, OpenID Connect, SAML 2.0, JWT, SSO, and PingFederate**.
-
-I enjoy solving programming problems, building projects, learning new technologies, and using the strategic thinking I developed through chess to approach coding problems.
+</div>
 
 ---
 
-## 🚀 About Me
+# 🧑‍💻 About Me
 
-- 🎓 Pursuing **MCA at Galgotias University**
-- 💻 Interested in **Full Stack & Backend Development**
-- ☕ Currently strengthening **Java & DSA**
-- 🌐 Building applications using **JavaScript, React, Node.js & Express**
-- 🗄️ Working with **MongoDB & MySQL**
-- 🔐 Exploring **IAM, SSO, OAuth 2.0, OIDC & SAML**
-- 🧩 Practicing problem solving with **C, Java & Python**
-- ♟️ Chess player who enjoys applying strategic thinking to programming
-- 📚 Always learning and building something new
+Hey! I'm **Manas Kasaudhan** 👋
 
----
+I'm an MCA student and developer who enjoys turning ideas into working applications.
 
-## 🛠️ Technical Skills
+I like working across the stack, from designing interfaces to building APIs and databases. Currently, I'm putting extra focus on **Java, DSA, backend development and system fundamentals**.
 
-### 💻 Programming Languages
+I also explore **Identity & Access Management**, including OAuth 2.0, OpenID Connect, SAML 2.0, JWT, SSO and PingFederate.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+And yes...
 
-### 🌐 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### ⚙️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔐 Identity & Security
-
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-3C5A99?style=for-the-badge)
-![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
-![SAML](https://img.shields.io/badge/SAML_2.0-5C2D91?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![PingFederate](https://img.shields.io/badge/PingFederate-0066CC?style=for-the-badge)
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### ☁️ Deployment & Cloud
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+> ♟️ I play chess, so sometimes I spend 10 minutes thinking about a coding problem and then realize the bug was a missing semicolon. 😭
 
 ---
 
-## 📚 Currently Learning
+# 🚀 What I'm Working On
 
 ```text
-Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- ├── File Handling
- └── DSA
+☕ Java
+   ├── OOP
+   ├── Collections
+   ├── Exception Handling
+   ├── File Handling
+   └── DSA
 
-Web Development
- ├── HTML
- ├── CSS
- ├── JavaScript
- ├── React
- ├── Node.js
- └── Express.js
+🌐 Web Development
+   ├── HTML
+   ├── CSS
+   ├── JavaScript
+   ├── React
+   ├── Node.js
+   └── Express.js
 
-Backend & APIs
- ├── REST APIs
- ├── Authentication
- ├── Authorization
- └── API Integration
+⚙️ Backend
+   ├── REST APIs
+   ├── Authentication
+   ├── Authorization
+   ├── API Integration
+   └── Databases
 
-IAM & SSO
- ├── OAuth 2.0
- ├── OpenID Connect
- ├── SAML 2.0
- ├── JWT
- └── PingFederate
+🔐 IAM / Security
+   ├── OAuth 2.0
+   ├── OpenID Connect
+   ├── SAML 2.0
+   ├── JWT
+   ├── SSO
+   └── PingFederate
