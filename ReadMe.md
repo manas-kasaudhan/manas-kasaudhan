@@ -1,117 +1,27 @@
-<!-- ========================================================= -->
-<!--                    ANIMATED HEADER                        -->
-<!-- ========================================================= -->
+# 💫 About Me:
+🔭 I’m currently working on Full Stack Web Development, Java & backend projects.<br><br>🤝 I’m looking to collaborate on Open Source, Web Development & Java projects.<br><br>🆘 I’m looking for help with DSA, Advanced Java, System Design & Backend Development.<br><br>🌱 I’m currently learning Java, DSA, React, Node.js, REST APIs & IAM.<br><br>💬 Ask me about Java, JavaScript, React, Node.js, Git, GitHub & Web Development.<br><br>⚡ Fun fact: I play chess ♟️, and apparently debugging is just chess against the compiler. ☕💻
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7C4DFF,100:00C9FF&height=230&section=header&text=Manas%20Kasaudhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebrownguy.x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manas Kasaudhan) 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Web+Applications+%F0%9F%8C%90;Learning+Java+%26+DSA+%E2%98%95;Exploring+IAM+%7C+SSO+%7C+OAuth+%7C+OIDC;Code+%7C+Debug+%7C+Learn+%7C+Repeat+%F0%9F%94%A5"/>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=manas-kasaudhan&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=manas-kasaudhan&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=manas-kasaudhan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manas-kasaudhan&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://komarev.com/ghpvc/?username=manas-kasaudhan&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-</div>
-
----
-
-# 👋 Hey, I'm Manas!
-
-### 💻 MCA Student | Full Stack Developer | Java & Web Development
-
-I'm a developer who enjoys building practical applications, solving problems and understanding how things work behind the scenes.
-
-Currently, I'm focusing on:
-
-- ☕ **Java & Object-Oriented Programming**
-- 🧠 **Data Structures & Algorithms**
-- 🌐 **Full Stack Web Development**
-- ⚙️ **Backend Development & REST APIs**
-- 🔐 **Identity & Access Management**
-- 🐙 **Git, GitHub & Open Source**
-
-I'm also exploring **OAuth 2.0, OpenID Connect, SAML 2.0, JWT, SSO and PingFederate**.
-
-When I'm not coding, you'll probably find me playing chess, reading, or wondering why the code worked five minutes ago but doesn't work anymore. 😭
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=manas-kasaudhan&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=manas-kasaudhan&icon=2&color=0)](https://visitcount.itsvg.in)
 
-# 🧑‍💻 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Education
-
-**Master of Computer Applications**
-
-Galgotias University
-
-### 💻 Development
-
-Full Stack & Backend Development
-
-### ☕ Current Focus
-
-Java + DSA + Web Development
-
-</td>
-
-<td width="50%">
-
-### 🔐 Security
-
-IAM • SSO • OAuth 2.0 • OIDC • SAML
-
-### ♟️ Beyond Code
-
-Chess • Reading • Problem Solving
-
-### 🚀 Philosophy
-
-Build → Break → Debug → Learn
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Current Focus
-
-```text
-╔══════════════════════════════════════════════════╗
-║                  CURRENT FOCUS                   ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║ ☕ JAVA & DSA                                    ║
-║    ├── OOP                                      ║
-║    ├── Collections                              ║
-║    ├── Exception Handling                       ║
-║    ├── File Handling                            ║
-║    └── Algorithms & Problem Solving             ║
-║                                                  ║
-║ 🌐 FULL STACK                                    ║
-║    ├── HTML / CSS                               ║
-║    ├── JavaScript / TypeScript                  ║
-║    ├── React                                    ║
-║    ├── Node.js                                  ║
-║    └── Express.js                               ║
-║                                                  ║
-║ ⚙️ BACKEND                                      ║
-║    ├── REST APIs                                ║
-║    ├── Authentication                           ║
-║    ├── Authorization                            ║
-║    └── Database Design                          ║
-║                                                  ║
-║ 🔐 IAM / SECURITY                               ║
-║    ├── OAuth 2.0                                ║
-║    ├── OpenID Connect                           ║
-║    ├── SAML 2.0                                 ║
-║    ├── JWT                                      ║
-║    ├── SSO                                      ║
-║    └── PingFederate                             ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
